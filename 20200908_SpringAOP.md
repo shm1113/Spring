@@ -1,4 +1,4 @@
-#### ㄴQsㄴㄴㄴㄴㄴㄴㄴㄴㄴㄴㄴㄴㄴㅊ:book: 같은 dependency가 두개 있을 때 서로 버전이 다르면 충돌이 난다
+#### :book: 같은 dependency가 두개 있을 때 서로 버전이 다르면 충돌이 난다
 
 #### :book: 용량이 많은 syso보다 logger를 쓴다 
 
